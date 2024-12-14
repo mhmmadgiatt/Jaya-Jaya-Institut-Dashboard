@@ -27,7 +27,7 @@ Jaya Jaya Institut adalah sebuah institusi pendidikan tinggi yang berfokus pada 
    Jika Anda menggunakan Git untuk mengelola proyek, clone repository ini ke komputer lokal Anda.
 
    ```bash
-   git clone https://github.com/mhmmadgiatt/HR-Attrition-Analysis-Dashboard.git
+   git clone [https://github.com/mhmmadgiatt/HR-Attrition-Analysis-Dashboard.git](https://github.com/mhmmadgiatt/Jaya-Jaya-Institut-Dashboard.git)
    ```
 
 2. **Install Dependencies**:
