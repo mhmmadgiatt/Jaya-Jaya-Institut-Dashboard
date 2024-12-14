@@ -59,7 +59,7 @@ Dashboard ini dibuat menggunakan Streamlit untuk memberikan wawasan mendalam ten
 - **Demographic Insights:** Profil demografis mahasiswa berdasarkan program studi, kewarganegaraan, dan gender.
 - **Predictive Analytics:** Prediksi status mahasiswa berdasarkan input data tertentu, dengan distribusi probabilitas prediksi.
 
-**Link Dashboard:** *([Klik Link Dashnoard]([https://prediction-jaya-jaya-institut-dashboard.streamlit.app/](https://jaya-jaya-institut-dashboard.streamlit.app/)), atau gunakan localhost: http://localhost:8501 untuk menjalankan di lokal)*
+**Link Dashboard:** *([Klik Link Dashboard](https://jaya-jaya-institut-dashboard.streamlit.app/), atau gunakan localhost: http://localhost:8501 untuk menjalankan di lokal)*
 
 ---
 
