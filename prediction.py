@@ -47,7 +47,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load the saved model and related objects
-@st.cache
+@st.cache_resource
 def load_model():
     try:
         model_data = joblib.load('model.pkl')
